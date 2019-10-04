@@ -10,6 +10,7 @@ export default function Dashboard(){
     //o use effect tem como parametros 2 itens
     //uma função que sera executada
     //e um array de itens que sera monitorado, e sempre que modificados, a função sera executada
+    //o useEffect nao precisa ser chamado, ele sempre fica execurando e atualizando
     useEffect(()=>{
         //precisamos buscar nossos spots no banco, e o use effect nao aceita o ASYNC, então criaremos uma função interna com o async
         async function spotLoads(){
