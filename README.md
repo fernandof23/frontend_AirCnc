@@ -7,6 +7,10 @@
 - Nodejs.
 - ReactJs.
 
+-- Adicionado socket.io
+
+--Agora com conexão em tempo real entre Mobile, front end e backend!
+
 <br>
 
 <a href="https://github.com/Hadesknight/BackEnd_airCnC_Rocketseat">
